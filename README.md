@@ -76,7 +76,7 @@ Each week follows the same rhythm:
 |------------|----------------------------------------------------|
 | Mon–Thu    | freeCodeCamp lessons + reading                     |
 | Friday     | Mini-project applying the week's concepts          |
-| Saturday   | 1-hour mentor check-in (live or async)             |
+| Saturday   | 30min  mentor check-in (live or async)             |
 | Sunday     | Rest, review notes, prep questions for next week   |
 
 Every project gets pushed to GitHub in its own repo. The mentee should write a real README for each one — this is non-negotiable, as it builds the portfolio in parallel with the learning.
